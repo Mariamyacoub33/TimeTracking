@@ -18,8 +18,9 @@ h{
 @media only screen and (max-width: 450px) {
     #Timetrackingboarddiv{
       width: 90%;
-      height: 80%;
+      height: 70%;
       display: flex;
       flex-direction: column;
+      gap: 10px;
   }
 }
